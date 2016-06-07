@@ -1,0 +1,34 @@
+{
+    "setting": {
+        "name": "PREMIÈRE RÉSIDENCE",
+        "slug": "premiereResidence",
+        "version": "0.0.2",
+        "title": "PREMIÈRE RÉSIDENCE",
+        "baseUrl": "http://premiere.inocoopes.com.br",
+        "titleSeparator": " — ",
+        "description": "PREMIÈRE RÉSIDENCE",
+        "copyright": "PREMIÈRE RÉSIDENCE",
+        "google": {
+            "clientId": "130659612163-85bs2fcla6caehkbrh0pf0aj8kfbuitb.apps.googleusercontent.com",
+            "language": "pt-BR"
+        },
+        "facebook": {
+            "scope": "email",
+            "appId": "351845598327281",
+            "appSecret": "7ccae2d2dfd18d1b763aa6b6d14cea5b",
+            "language": "pt-BR"
+        },
+        "https": [
+            "premiere.inocoopes.com.br"
+        ],
+        "redirWww": true,
+        "ogLocale": "pt_BR",
+        "ogSiteName": "premiere.inocoopes.com.br",
+        "ogTitle": "PREMIÈRE RÉSIDENCE",
+        "ogDescription": "PREMIÈRE RÉSIDENCE, SEU APÊ DO SEU JEITO.",
+        "ogUrl": "http://premiere.inocoopes.com.br",
+        "ogImage": "http://inocoopes.com.br/premiere-files/logo.png",
+        "ogSection": "PREMIÈRE RÉSIDENCE",
+        "ogTag": "empreendimento, premiere, residence, cooperativa, construtora"
+    }
+}
